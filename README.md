@@ -1,4 +1,4 @@
-# minicurso_flutter
+# minicursoFlutter
 
 A new Flutter project.
 
