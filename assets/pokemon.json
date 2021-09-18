@@ -1,0 +1,38 @@
+[
+    {
+        "id": 260,
+        "nivel": 68,
+        "nome": "Swampert",
+        "tipo": "Terra/Água"
+    },
+    {
+        "id": 200,
+        "nivel": 65,
+        "nome": "Misdreavous",
+        "tipo": "Fantasma"
+    },
+    {
+        "id": 376,
+        "nivel": 64,
+        "nome": "Metagross",
+        "tipo": "Metal"
+    },
+    {
+        "id": 38,
+        "nivel": 64,
+        "nome": "Ninetales",
+        "tipo": "fogo"
+    },
+    {
+        "id": 332,
+        "nivel": 64,
+        "nome": "Cacturne",
+        "tipo": "Planta/Sombrio"
+    },
+    {
+        "id": 330,
+        "nivel": 59,
+        "nome": "Flygon",
+        "tipo": "Terra/Dragão"
+    }
+]
